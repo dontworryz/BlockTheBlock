@@ -1,0 +1,2 @@
+This plugin for the Minecraft server on kernel version 1.16.5 is designed to restrict players from installing blocks. 
+You can change the forbidden blocks in the config.yml file, which is created when the server starts.
